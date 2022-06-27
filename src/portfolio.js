@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Harry's Portfolio",
   description:
-    "Come on BRUH ?",
+    "Come on BRUH ??",
   og: {
     title: "Harry  Portfolio",
     type: "website",
