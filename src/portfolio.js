@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -125,9 +125,10 @@ const skills = {
             color: "#3776AB",
           },
         },
-      ],
-    
-  ],
+      ]
+    }
+  ]
+
 };
 
 // Education Page
@@ -179,7 +180,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
+      title: "TBH",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
