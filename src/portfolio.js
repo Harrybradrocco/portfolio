@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Harry's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Come on BRUH ??",
   og: {
     title: "Harry  Portfolio",
     type: "website",
